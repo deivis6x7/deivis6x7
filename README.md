@@ -1,6 +1,7 @@
 ## Olá, eu sou o Davi!
 - Tenho interesse em robótica, matemática e inteligência artificial.
-- Atualmente eu sou estudante de engenharia mecatrônica e realizo pesquisa na área de veículos autônomos.
+- Sou estudante de engenharia mecatrônica na UnB.
+- Realizo pesquisa na área de veículos autônomos.
   ##
 - Tecnologias: <br>
 <div>
