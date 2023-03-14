@@ -11,7 +11,7 @@
   <img align="center" alt="Ds-matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Ds-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ds-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Ds-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Ds-github" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg)">
 
 </div>
   
