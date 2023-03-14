@@ -1,4 +1,4 @@
-## Olá, eu sou o Davi Salomão e seja bem-vindo(a)!
+## Olá, eu sou o Davi e seja bem-vindo(a)!
 - Tenho interesse em robótica, matemática e inteligência artificial.
 - Atualmente eu sou estudante de engenharia mecatrônica e realizo pesquisa na área de veículos autônomos.
   ##
