@@ -3,7 +3,7 @@
 - Sou estudante de engenharia mecatrônica na UnB.
 - Realizo pesquisa na área de veículos autônomos.
   ##
-- Tecnologias: <br>
+- Linguagens: <br>
 <div>
   <img align="center" alt="Ds-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Ds-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -14,6 +14,10 @@
   <img align="center" alt="Ds-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Ds-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> -->
 
+</div>
+- Front-end: <br>
+<a <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<div>
 </div>
   
   ##
