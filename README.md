@@ -30,7 +30,7 @@
 </div>
 
 ## Linguagens
-[![Python](https://img.shields.io/badge/PYTHON-f7d367?style=for-the-badge&logo=python)]
+[![Python](https://img.shields.io/badge/PYTHON-f7d367?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ## Front-end (estou começando)
