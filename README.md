@@ -1,5 +1,5 @@
 ## Olá, eu sou o Davi!
-- Tenho interesse em robótica, matemática e inteligência artificial.
+- Tenho interesse em redes, processamento de sinal e filtragem estocástica.
 - Sou estudante de engenharia mecatrônica na UnB.
 - Realizo pesquisa na área de veículos autônomos.
   ##
