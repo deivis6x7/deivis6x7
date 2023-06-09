@@ -30,7 +30,7 @@
 </div>
 ## Linguagens
 [![Python](https://img.shields.io/badge/PYTHON-f7d367?style=for-the-badge&logo=python)]
-[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)]
+[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)])
 
 https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
