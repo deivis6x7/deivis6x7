@@ -28,6 +28,7 @@
   <a href="https://www.linkedin.com/in/deivis6x7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 ## Linguagens
 [![Python](https://img.shields.io/badge/PYTHON-f7d367?style=for-the-badge&logo=python)]
 [![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
