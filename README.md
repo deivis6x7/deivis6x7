@@ -28,6 +28,14 @@
   <a href="https://www.linkedin.com/in/deivis6x7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+## Linguagens
+[![Python](https://img.shields.io/badge/PYTHON-f7d367?style=for-the-badge&logo=python)]
+[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)]
 
-## 👀 Front-end
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+
+## Front-end (Em construção)
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+
+## Front-end (Em construção)
+
