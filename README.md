@@ -15,9 +15,10 @@
   <img align="center" alt="Ds-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> -->
 
 </div>
+ ##
 - Front-end: <br>
 <div>
-  <a <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 </div>
   
   ##
