@@ -1,6 +1,6 @@
 <h1> Hi, I'm Davi! </h1>
 
-## About me
+<h3> About me </h3>
 - I'm interested in computer networks, signal processing and stochastic filtering.
 - I'm a student of Mechatronics Engineering at UnB.
 - I conduct research in the field of autonomous vehicles.
