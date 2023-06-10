@@ -1,11 +1,13 @@
 # Hi, I'm Davi!
+
+## About me
 - I'm interested in computer networks, signal processing and stochastic filtering.
 - I'm a student of Mechatronics Engineering at UnB.
 - I conduct research in the field of autonomous vehicles.
 
 # My Skills
 
-## Languages & Frameworks (...)
+## Languages & Frameworks
 [![Python](https://img.shields.io/badge/PYTHON-FFC300?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-FF5733?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Cpp](https://img.shields.io/badge/C%2B%2B-C70039?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
