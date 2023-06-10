@@ -2,7 +2,7 @@
 - Tenho interesse em redes, processamento de sinal e filtragem estocástica.
 - Sou estudante de engenharia mecatrônica na UnB.
 - Realizo pesquisa na área de veículos autônomos.
-  ##
+##
 
 ## Linguagens
 [![Python](https://img.shields.io/badge/PYTHON-f7d367?style=for-the-badge&logo=python)](https://www.python.org/)
