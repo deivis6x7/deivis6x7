@@ -2,7 +2,6 @@
 - I'm interested in computer networks, signal processing and stochastic filtering.
 - I'm a student of Mechatronics Engineering at UnB.
 - I conduct research in the field of autonomous vehicles.
-#
 
 # My Skills
 
