@@ -9,6 +9,8 @@
 [![Python](https://img.shields.io/badge/PYTHON-FFC300?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-FF5733?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Cpp](https://img.shields.io/badge/C%2B%2B-C70039?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
+[![Matlab](https://img.shields.io/badge/-Matlab-900C3F?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
+
 
 ## Front-end (...)
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
