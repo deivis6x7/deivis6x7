@@ -1,4 +1,4 @@
-<h1> Hi, I'm Davi! </h1>
+<h1> Hello there, I'm Davis! </h1>
 
 <h2> About me </h2>
 
