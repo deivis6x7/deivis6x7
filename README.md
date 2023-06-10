@@ -1,5 +1,4 @@
 <h1> Hi, I'm Davi! </h1>
-
 <h2> About me </h2>
 
 - I'm interested in computer networks, signal processing and stochastic filtering.
