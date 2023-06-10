@@ -11,7 +11,7 @@
 [![Cpp](https://img.shields.io/badge/C%2B%2B-C70039?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
 [![Matlab](https://img.shields.io/badge/Matlab-900C3F?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
 [![Arduino](https://img.shields.io/badge/arduino-581845.svg?&style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
-
+[![Esp32](https://img.shields.io/badge/espressif-355C7D.svg?&style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
 
 
 
