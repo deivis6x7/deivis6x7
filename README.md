@@ -1,9 +1,9 @@
 <h1> <p align="center">Davi's Profile<br /><img src="https://komarev.com/ghpvc/?username=deivis6x71619&color=blue&style=flat-square&label=Profile+Views" /></p> </h1>
 <h2> About me </h2>
 
-- I'm interested in computer networks, signal processing and stochastic filtering.
-- I'm a student of Mechatronics Engineering at UnB.
-- I conduct research in the field of autonomous vehicles.
+- Mechatronics Engineering student at UnB.
+- Interested in Computer Networks, Signal Processing, and Stochastic Filtering.
+- Researcher in the field of Autonomous Vehicles.
 
 <h2> My Skills </h2>
 
