@@ -17,13 +17,16 @@
 [![Matlab](https://img.shields.io/badge/Matlab-900C3F?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
 [![Arduino](https://img.shields.io/badge/arduino-581845.svg?&style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
 [![Esp32](https://img.shields.io/badge/espressif-355C7D.svg?&style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
+[![RaspBerry](https://img.shields.io/badge/raspberry%20pi-%40E0D0.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://www.raspberrypi.com)
 
 <h3> Front-end </h3>
 
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 
-<h3> Back-end (...) </h3>
+<h3> Back-end </h3>
+
+(...)
 
 <h2> My Contact </h2>
 <a href = "mailto:davisalomao10@gmail.com"><img src="https://img.shields.io/badge/Gmail-B50023?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
