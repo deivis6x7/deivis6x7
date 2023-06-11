@@ -17,7 +17,7 @@
 [![Matlab](https://img.shields.io/badge/Matlab-900C3F?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
 [![Arduino](https://img.shields.io/badge/arduino-581845.svg?&style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
 [![Esp32](https://img.shields.io/badge/espressif-355C7D.svg?&style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
-[![RaspBerry](https://img.shields.io/badge/raspberry%20pi-%40E0D0.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://www.raspberrypi.com)
+[![RaspBerry](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://www.raspberrypi.com)
 
 <h3> Front-end </h3>
 
