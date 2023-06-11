@@ -13,10 +13,13 @@
 
 [![Python](https://img.shields.io/badge/PYTHON-FFC300?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-FF5733?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Cpp](https://img.shields.io/badge/C%2B%2B-C70039?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
-[![Matlab](https://img.shields.io/badge/Matlab-900C3F?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
+[![Cpp](https://img.shields.io/badge/C%2B%2B-900C3F?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
+C70039
+[![Matlab](https://img.shields.io/badge/Matlab-355C7D?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
+900C3F
 [![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
-[![Esp32](https://img.shields.io/badge/espressif-355C7D.svg?&style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
+[![Esp32](https://img.shields.io/badge/espressif-C70039.svg?&style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
+355C7D
 [![RaspBerry](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://www.raspberrypi.com)
 
 <h3> Front-end </h3>
