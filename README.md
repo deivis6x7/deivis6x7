@@ -1,5 +1,4 @@
-<h1> Hello there, I'm Davis! </h1>
-# <p align="center">Perfil de Dêivis<br /><img src="https://komarev.com/ghpvc/?username=deivis6x71619&color=blue&style=flat-square&label=Profile+Views" /></p>
+<h1> <p align="center">Davi's Profile<br /><img src="https://komarev.com/ghpvc/?username=deivis6x71619&color=blue&style=flat-square&label=Profile+Views" /></p> </h1>
 <h2> About me </h2>
 
 - I'm interested in computer networks, signal processing and stochastic filtering.
