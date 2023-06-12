@@ -3,8 +3,8 @@
 
 <p>
 <li> Mechatronics engineering student at UnB.<br>
-- Interested in computer networks, signal processing and stochastic filtering.<br>
-- Researcher in the field of autonomous vehicles.<br>
+<li> Interested in computer networks, signal processing and stochastic filtering.<br>
+<li> Researcher in the field of autonomous vehicles.<br>
 </p>
 
 <h2> My Skills </h2>
