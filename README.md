@@ -2,7 +2,7 @@
 <h2> About me </h2>
 
 <p>
-&bull Mechatronics engineering student at UnB.<br>
+<li> Mechatronics engineering student at UnB.<br>
 - Interested in computer networks, signal processing and stochastic filtering.<br>
 - Researcher in the field of autonomous vehicles.<br>
 </p>
