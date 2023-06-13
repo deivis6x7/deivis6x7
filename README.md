@@ -30,4 +30,5 @@
 
 <h2> My Contact </h2>
 <a href = "mailto:davisalomao10@gmail.com"><img src="https://img.shields.io/badge/Gmail-B50023?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/deivis6x7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/deivis6x7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/deivis6x7" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
