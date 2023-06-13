@@ -2,7 +2,7 @@
 <h2> About me </h2>
 
 <p>
-<li> Mechatronics engineering student at <a href="http://www.unb.br">UnB</a>.<br>
+<li> Mechatronics engineering student at <a href="http://www.unb.br">University of Brasilia</a>.<br>
 <li> Interested in computer networks, signal processing and stochastic filtering.<br>
 <li> Researcher in the field of autonomous vehicles.<br>
 </p>
