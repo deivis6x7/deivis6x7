@@ -14,6 +14,7 @@
 [![Python](https://img.shields.io/badge/PYTHON-FFC300?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-FF5733?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Cpp](https://img.shields.io/badge/C%2B%2B-900C3F?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
+[![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)<br>
 [![Matlab](https://img.shields.io/badge/Matlab-355C7D?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
 [![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
 [![Esp32](https://img.shields.io/badge/espressif-C70039.svg?&style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
